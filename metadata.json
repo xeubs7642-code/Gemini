@@ -1,0 +1,6 @@
+{
+  "name": "Gemini",
+  "description": "Google Gemini official AI assistant experience featuring Gemini Live, multimodal conversations, model switching, and chat history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
